@@ -1,0 +1,18 @@
+.balances-table {
+  width: 100%;
+}
+
+.balances-table td {
+  padding: .5rem 0;
+}
+
+.balances-table td:first-of-type {
+  padding-top: 1rem;
+}
+
+.balances-table th {
+  color: rgba(0,0,0, .34);
+  text-align: left;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #ebebeb;
+}
